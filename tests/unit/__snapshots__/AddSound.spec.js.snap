@@ -1,0 +1,391 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SoundsList.vue renders correctly 1`] = `
+<div
+  class="add-item"
+>
+  <!---->
+   
+  <form
+    class="add-item__form"
+  >
+    <div
+      class="add-item__row"
+    >
+      <div
+        class="add-item__form-group"
+      >
+        <label
+          for="iswc"
+        >
+          ISWC
+        </label>
+         
+        <input
+          class="add-item__input"
+          name="iswc"
+          required="required"
+          type="text"
+        />
+         
+        <p
+          class="add-item__error"
+        >
+          Please enter the ISWC
+        </p>
+      </div>
+       
+      <div
+        class="add-item__form-group"
+      >
+        <label
+          for="work_title"
+        >
+          Work Title
+        </label>
+         
+        <input
+          class="add-item__input"
+          name="work_title"
+          required="required"
+          type="text"
+        />
+         
+        <p
+          class="add-item__error"
+        >
+          Please enter the Work Title
+        </p>
+      </div>
+    </div>
+     
+    <div
+      class="add-item__row"
+    >
+      <div
+        class="add-item__form-group"
+      >
+        <label
+          for="titles"
+        >
+          
+          Other Titles
+          
+          <i
+            class="add-item__info-icon"
+            title="To add multipe titles use semilocon to separete each title"
+          >
+            
+            ℹ
+          
+          </i>
+        </label>
+         
+        <input
+          class="add-item__input"
+          name="titles"
+          placeholder="Ex: Love You; Love You & Me"
+          required="required"
+          type="text"
+        />
+      </div>
+    </div>
+     
+    <div>
+      <div
+        class="add-item__clone"
+      >
+        <h5>
+          Interested Parties
+        </h5>
+         
+        <i
+          class="add-item__clone-btn"
+          title="To add more Interested Parties click on the button"
+        >
+          
+          +
+        
+        </i>
+      </div>
+       
+      <div
+        class="add-item__row"
+      >
+        <div
+          class="add-item__form-group"
+        >
+          <label
+            for="full_name"
+          >
+            Full Name
+          </label>
+           
+          <input
+            class="add-item__input"
+            name="full_name"
+            type="text"
+          />
+        </div>
+         
+        <div
+          class="add-item__form-group"
+        >
+          <label
+            for="ipi_na_num"
+          >
+            IPI Number
+          </label>
+           
+          <input
+            class="add-item__input"
+            name="ipi_na_num"
+            type="text"
+          />
+        </div>
+      </div>
+       
+      <div
+        class="add-item__row"
+      >
+        <div
+          class="add-item__form-group"
+        >
+          <label
+            for="role"
+          >
+            Role
+          </label>
+           
+          <input
+            class="add-item__input"
+            name="role"
+            type="text"
+          />
+        </div>
+         
+        <div
+          class="add-item__form-group"
+        />
+      </div>
+       
+      <h5>
+        Address
+      </h5>
+       
+      <div>
+        <div
+          class="add-item__row"
+        >
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="name2"
+            >
+              Name 2
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="name2"
+              type="text"
+            />
+          </div>
+           
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="name3"
+            >
+              Name 3
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="name3"
+              type="text"
+            />
+          </div>
+        </div>
+         
+        <div
+          class="add-item__row"
+        >
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="line1"
+            >
+              Line 1
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="line1"
+              type="text"
+            />
+          </div>
+           
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="line2"
+            >
+              Line 2
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="line2"
+              type="text"
+            />
+          </div>
+        </div>
+         
+        <div
+          class="add-item__row"
+        >
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="postalCde"
+            >
+              Postal Code
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="postalCde"
+              type="text"
+            />
+          </div>
+           
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="city"
+            >
+              City
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="city"
+              type="text"
+            />
+          </div>
+           
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="province"
+            >
+              Province
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="province"
+              type="text"
+            />
+          </div>
+        </div>
+         
+        <div
+          class="add-item__row"
+        >
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="stateCde"
+            >
+              State Code
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="stateCde"
+              type="text"
+            />
+          </div>
+           
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="countryCde"
+            >
+              Country Code
+            </label>
+             
+            <input
+              class="add-item__input"
+              name="countryCde"
+              type="text"
+            />
+          </div>
+        </div>
+         
+        <div
+          class="add-item__row"
+        >
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="stateDesc"
+            >
+              State Description
+            </label>
+             
+            <textarea
+              class="add-item__input add-item__input--textarea"
+              name="stateDesc"
+            />
+          </div>
+           
+          <div
+            class="add-item__form-group"
+          >
+            <label
+              for="countryDesc"
+            >
+              Country Description
+            </label>
+             
+            <textarea
+              class="add-item__input add-item__input--textarea"
+              name="countryDesc"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="add-item__row"
+    >
+      <div
+        class="add-item__form-group"
+      >
+        <button
+          class="add-item__button"
+          type="button"
+        >
+          
+          Add Sound
+        
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;

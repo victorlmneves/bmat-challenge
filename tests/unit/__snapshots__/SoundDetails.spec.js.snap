@@ -1,0 +1,234 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SoundDetails.vue renders correctly 1`] = `
+<div
+  class="sound"
+>
+  <div
+    class="sound__item"
+  >
+    <h3
+      class="sound__title"
+    >
+      <router-link
+        to="/"
+      >
+        <i
+          class="sound__back-btn"
+        >
+          ⇜
+        </i>
+      </router-link>
+      
+      ISWC: 
+      <span>
+        T9204644531
+      </span>
+    </h3>
+     
+    <div
+      class="sound__ctn-wrapper"
+    >
+      <div
+        class="sound__container"
+      >
+        <h5>
+          Work Title
+        </h5>
+         
+        <p
+          class="sound__info"
+        >
+          RAISE EM UP
+        </p>
+         
+        <h5>
+          Other Title(s)
+        </h5>
+         
+        <p
+          class="sound__info"
+        >
+          RAISE 'EM UP - TEAM LIT MIX
+        </p>
+        <p
+          class="sound__info"
+        >
+          RAISE EM UP (CHOPPED & SCREWED)
+        </p>
+        <p
+          class="sound__info"
+        >
+          RAISE EM UP - DANCE REMIX
+        </p>
+        <p
+          class="sound__info"
+        >
+          RAISE EM UP - REMIX
+        </p>
+         
+        <h5>
+          Share
+        </h5>
+         
+        <p
+          class="sound__info"
+        >
+          50
+        </p>
+      </div>
+       
+      <div
+        class="sound__container"
+      >
+        <h5
+          class="sound__subtitle"
+        >
+          Interested Parties
+        </h5>
+         
+        <div
+          class="sound__parties"
+        >
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              Name: 
+            </span>
+            
+              DRAMUKE HERBERT
+              
+          </p>
+           
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              IPI: 
+            </span>
+            
+              868569955
+            
+          </p>
+           
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              Role: 
+            </span>
+            
+              composer
+            
+          </p>
+           
+          <!---->
+        </div>
+        <div
+          class="sound__parties"
+        >
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              Name: 
+            </span>
+            
+              SHEERAN JETHRO JAMES CALLOW
+              
+          </p>
+           
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              IPI: 
+            </span>
+            
+              632848139
+            
+          </p>
+           
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              Role: 
+            </span>
+            
+              writer
+            
+          </p>
+           
+          <!---->
+        </div>
+        <div
+          class="sound__parties"
+        >
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              Name: 
+            </span>
+            
+              SENTRIC MUSIC PUBLISHING LTD
+              
+          </p>
+           
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              IPI: 
+            </span>
+            
+              691477506
+            
+          </p>
+           
+          <p
+            class="sound__info"
+          >
+            <span
+              class="sound__label"
+            >
+              Role: 
+            </span>
+            
+              publisher
+            
+          </p>
+           
+          <h5
+            class="sound__subtitle"
+          >
+            Address
+          </h5>
+           
+          <address-stub
+            address="[object Object]"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

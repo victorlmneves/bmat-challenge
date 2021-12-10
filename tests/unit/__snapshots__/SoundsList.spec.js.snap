@@ -1,0 +1,315 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SoundsList.vue renders correctly 1`] = `
+<div
+  class="sounds-list"
+>
+  <table
+    class="sounds-list__table"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          ISWC
+        </th>
+         
+        <th
+          scope="col"
+        >
+          Work Title
+        </th>
+         
+        <th
+          class="sounds-list__shares"
+          scope="col"
+        >
+          Shares
+        </th>
+         
+        <th
+          scope="col"
+        />
+         
+        <th
+          scope="col"
+        />
+      </tr>
+    </thead>
+     
+    <tbody>
+      <tr
+        class="sounds-list__rows"
+      >
+        <td>
+          T9204644531
+        </td>
+         
+        <td>
+          RAISE EM UP
+        </td>
+         
+        <td
+          class="sounds-list__shares"
+        >
+          50
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <a
+            class="sounds-list__link"
+          >
+            <button
+              class="sounds-list__details-btn"
+            >
+              
+              ▶
+            
+            </button>
+          </a>
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <button
+            class="sounds-list__delete-btn"
+          >
+            
+            ✖
+          
+          </button>
+        </td>
+      </tr>
+      <tr
+        class="sounds-list__rows"
+      >
+        <td>
+          T9142925460
+        </td>
+         
+        <td>
+          A FIRE LOVE
+        </td>
+         
+        <td
+          class="sounds-list__shares"
+        >
+          88
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <a
+            class="sounds-list__link"
+          >
+            <button
+              class="sounds-list__details-btn"
+            >
+              
+              ▶
+            
+            </button>
+          </a>
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <button
+            class="sounds-list__delete-btn"
+          >
+            
+            ✖
+          
+          </button>
+        </td>
+      </tr>
+      <tr
+        class="sounds-list__rows"
+      >
+        <td>
+          T0701815124
+        </td>
+         
+        <td>
+          TURTLE
+        </td>
+         
+        <td
+          class="sounds-list__shares"
+        >
+          100
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <a
+            class="sounds-list__link"
+          >
+            <button
+              class="sounds-list__details-btn"
+            >
+              
+              ▶
+            
+            </button>
+          </a>
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <button
+            class="sounds-list__delete-btn"
+          >
+            
+            ✖
+          
+          </button>
+        </td>
+      </tr>
+      <tr
+        class="sounds-list__rows"
+      >
+        <td>
+          T0724517138
+        </td>
+         
+        <td>
+          THE LOVE
+        </td>
+         
+        <td
+          class="sounds-list__shares"
+        >
+          0
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <a
+            class="sounds-list__link"
+          >
+            <button
+              class="sounds-list__details-btn"
+            >
+              
+              ▶
+            
+            </button>
+          </a>
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <button
+            class="sounds-list__delete-btn"
+          >
+            
+            ✖
+          
+          </button>
+        </td>
+      </tr>
+      <tr
+        class="sounds-list__rows"
+      >
+        <td>
+          T9032296961
+        </td>
+         
+        <td>
+          THE LOVE
+        </td>
+         
+        <td
+          class="sounds-list__shares"
+        >
+          0
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <a
+            class="sounds-list__link"
+          >
+            <button
+              class="sounds-list__details-btn"
+            >
+              
+              ▶
+            
+            </button>
+          </a>
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <button
+            class="sounds-list__delete-btn"
+          >
+            
+            ✖
+          
+          </button>
+        </td>
+      </tr>
+      <tr
+        class="sounds-list__rows"
+      >
+        <td>
+          T9159537301
+        </td>
+         
+        <td>
+          THE LOVE
+        </td>
+         
+        <td
+          class="sounds-list__shares"
+        >
+          89.4565432344
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <a
+            class="sounds-list__link"
+          >
+            <button
+              class="sounds-list__details-btn"
+            >
+              
+              ▶
+            
+            </button>
+          </a>
+        </td>
+         
+        <td
+          class="sounds-list__icon-wrapper"
+        >
+          <button
+            class="sounds-list__delete-btn"
+          >
+            
+            ✖
+          
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
